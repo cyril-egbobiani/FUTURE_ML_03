@@ -1,4 +1,4 @@
-# FoodieBot - AI Culinary Assistant 🍽️🤖
+# Heldar - AI Culinary Assistant 🍽️🤖
 
 A modern, responsive web interface for an AI-powered culinary assistant that helps users with recipes, cooking tips, meal planning, and food recommendations.
 
