@@ -1,13 +1,13 @@
-# Heldar - AI Culinary Assistant 🍽️🤖
+# Heldar - AI Culinary Assistant
 
 A modern, responsive web interface for an AI-powered culinary assistant that helps users with recipes, cooking tips, meal planning, and food recommendations.
 
 
-## 🚀 Live Demo
+##  Live Demo
 
 Experience FoodieBot by opening `chatbot.html` in your web browser.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 - **HTML5** - Semantic markup and structure
@@ -72,7 +72,7 @@ FoodieBot serves as your personal culinary companion, powered by advanced AI to 
 - **Education** - Teaching cooking skills and techniques
 - **Inclusivity** - Supporting all dietary preferences and restrictions
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The interface is fully responsive with breakpoints for:
 - **Desktop** (1200px+) - Full feature layout
