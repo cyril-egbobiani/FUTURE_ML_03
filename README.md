@@ -2,30 +2,10 @@
 
 A modern, responsive web interface for an AI-powered culinary assistant that helps users with recipes, cooking tips, meal planning, and food recommendations.
 
-## 🌟 Features
-
-### Core Capabilities
-- **Smart Recipe Suggestions** - Personalized recommendations based on preferences, dietary restrictions, and available ingredients
-- **Cooking Guidance** - Professional cooking techniques, ingredient substitutions, and expert tips
-- **Meal Planning** - Efficient weekly meal planning with balanced nutrition and budget-friendly suggestions
-- **Dietary Support** - Adaptable to various dietary needs (vegan, keto, gluten-free, allergies)
-
-### Technical Features
-- **24/7 AI Availability** - Always ready to help with cooking questions
-- **Responsive Design** - Optimized for desktop, tablet, and mobile devices
-- **Modern UI/UX** - Clean, professional interface with smooth animations
-- **Dialogflow Integration** - Powered by Google's conversational AI platform
 
 ## 🚀 Live Demo
 
 Experience FoodieBot by opening `chatbot.html` in your web browser.
-
-## 📊 Project Stats
-
-- **10,000+** Recipes Available
-- **24/7** Support Available  
-- **50+** Cuisines Covered
-- **100%** Responsive Design
 
 ## 🛠️ Technologies Used
 
@@ -58,26 +38,7 @@ customer_chatbot/
 └── README.md             # Project documentation
 ```
 
-## 🎨 Design Highlights
-
-### Visual Elements
-- **Gradient Background** - Subtle blue gradient for visual appeal
-- **Floating Animations** - Smooth icon animations
-- **Card Layouts** - Clean feature cards with hover effects
-- **Statistics Display** - Prominent brand statistics
-
-### User Experience
-- **Mobile-First Design** - Responsive across all devices
-- **Smooth Scrolling** - Enhanced navigation experience
-- **Accessible Interface** - Clear typography and contrast
-- **Fast Loading** - Optimized assets and clean code
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Internet connection (for Google Fonts and Dialogflow)
-
+ 
 ### Installation
 
 1. **Clone the repository**
